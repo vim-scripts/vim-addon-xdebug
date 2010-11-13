@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3320
+
+This plugin wants to support sane PHP debugging for Vim.
+
+Features which work:
+- stack
+- step into, over, out, run
+- eval PHP code (inspect vars)
+- show current line which will be executed next
+
+Adding the remaining features should be easy now.
